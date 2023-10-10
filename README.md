@@ -85,7 +85,7 @@
 | 개발 분야| 역할 |
 |:---:|:---|
 |인프라 구축| - Amazon S3를 활용하여 게시글 이미지 저장 <br>
-|커뮤니티 게시판| - Spring JPA를 활용하여 게시판 CRUD 작성<br> - DB relation을 통한 댓글, 좋아요 관리  <br> - JWT token을 이용하여 게시판 CRUD 접근 제어 <br> - DDD 패턴을 이용해 개발 가용성을 높임|
+|커뮤니티 게시판| - Spring JPA를 활용하여 게시판 CRUD 작성<br> - DB relation을 통한 댓글, 좋아요 관리 <br>|
 
 **김수찬**:
 | 개발 분야| 역할 |
